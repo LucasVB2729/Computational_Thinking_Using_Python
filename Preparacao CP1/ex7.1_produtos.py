@@ -1,3 +1,14 @@
+'''
+Um vendedor necessita de um programa que calcule o preço total devido por um cliente. O algoritmo deve receber o código de um produto e a quantidade comprada e calcular o preço total, acrescendo o imposto que varia o seu percentual de acordo com o produto, usando a tabela abaixo:
+
+Código do Produto	   Preço unitário		Percentual de imposto
+      1001			       5,32			             18%
+      1324			       6,45			             18%
+      6548			       2,37			              6%
+      0987			       5,32			              6%
+      7623			       6,45			             12%
+'''
+
 # Definir os preços e as taxas de imposto dos produtos
 preco_1001 = 5.32
 taxa_imposto_1001 = 0.18

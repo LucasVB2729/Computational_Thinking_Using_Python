@@ -1,3 +1,5 @@
+# Dados 3 valores pelo usuário, exibir na tela o maior valor.
+
 num1 = float(input("\nInsira um valor: "))
 maior = num1
 num2 = float(input("Insira outro valor: "))

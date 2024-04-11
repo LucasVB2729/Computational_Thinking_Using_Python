@@ -1,4 +1,4 @@
-# 1. Modifique o programa anterior para imprimir de 1 até o número digitado pelo usuário, mas, dessa vez, apenas os números ímpares.
+# 4. Modifique o programa anterior para imprimir de 1 até o número digitado pelo usuário, mas, dessa vez, apenas os números ímpares.
 num = int(input("\nInsira com o valor: "))
 i = 0
 if num%2 == 1:
